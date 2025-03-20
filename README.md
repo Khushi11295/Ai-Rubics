@@ -9,7 +9,8 @@ An interactive **Rubik’s Cube Simulator** powered by **AI and computer vision*
 - 🔀 **Scramble & Undo Moves** for practice  
 - 🎭 **Custom Themes & Color Schemes**
 
-   🎮 How to Use
+![image alt](https://github.com/Khushi11295/Ai-Rubics/commit/e9bf4dd9d41269f5d0791fbb0adf3a7cf5de8e92)
+  🎮 How to Use
 Rotate the Cube using buttons or keyboard shortcuts.
 Scramble the Cube randomly to practice solving.
 AI Solver provides step-by-step guidance.
