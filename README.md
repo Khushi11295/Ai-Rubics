@@ -3,7 +3,7 @@
 An interactive **Rubik’s Cube Simulator** powered by **AI and computer vision**, built with **React** and **TensorFlow.js**. This simulator allows users to **solve, scramble, and rotate** a virtual Rubik’s Cube with **gesture and voice commands**. 
 
 ## 🚀 Features
-- 🎨 **3D Rubik’s Cube Simulation** using React and Three.js  
+- 🎨 **3D Rubik’s Cube Simulation** using React and Three.js
 - 🤖 **AI-Assisted Solver** with a step-by-step solution    
 - ✋ **Gesture Recognition** using TensorFlow.js  
 - 🔀 **Scramble & Undo Moves** for practice  
